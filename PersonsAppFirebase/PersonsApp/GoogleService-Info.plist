@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAroJtsFx5HeHk8HY36kDfmTKekXW0pSYQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>112063299440</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.info.PersonsApp</string>
+	<key>PROJECT_ID</key>
+	<string>swiftegitim</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swiftegitim.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:112063299440:ios:b01472ba2794e94b9619b5</string>
+	<key>DATABASE_URL</key>
+	<string>https://swiftegitim-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
